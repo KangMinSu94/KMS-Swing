@@ -1,2 +1,2 @@
-# KMS-Swing
+# KMS_Swing
 Java Swing
